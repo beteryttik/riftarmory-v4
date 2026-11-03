@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "N",
+    "R",
+    "S"
+  ],
+  "key": {
+    "N": {
+      "id": "minecraft:nether_star"
+    },
+    "R": {
+      "id": "riftarmory:rift_rod"
+    },
+    "S": {
+      "id": "minecraft:lightning_rod"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "riftarmory:annihilation_stick"
+  }
+}

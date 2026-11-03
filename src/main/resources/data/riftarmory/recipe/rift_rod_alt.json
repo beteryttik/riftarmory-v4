@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " C ",
+    "CRC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "id": "minecraft:amethyst_shard"
+    },
+    "R": {
+      "id": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "riftarmory:rift_rod"
+  }
+}

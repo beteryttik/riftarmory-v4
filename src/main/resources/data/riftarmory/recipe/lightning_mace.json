@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NN ",
+    "NS ",
+    "  S"
+  ],
+  "key": {
+    "N": {
+      "id": "minecraft:nether_star"
+    },
+    "S": {
+      "id": "riftarmory:rift_rod"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "riftarmory:lightning_mace"
+  }
+}

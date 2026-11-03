@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "H",
+    "B",
+    "B"
+  ],
+  "key": {
+    "H": {
+      "id": "riftarmory:dragon_heart"
+    },
+    "B": {
+      "id": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "riftarmory:dragon_spear"
+  }
+}

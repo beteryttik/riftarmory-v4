@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "OOO",
+    "ORO",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "id": "minecraft:obsidian"
+    },
+    "R": {
+      "id": "riftarmory:rift_rod"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "riftarmory:rift_chest"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " D ",
+    "DRD",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "id": "minecraft:diamond"
+    },
+    "R": {
+      "id": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "riftarmory:rift_rod"
+  }
+}

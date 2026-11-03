@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "id": "minecraft:magma_cream"
+    },
+    {
+      "id": "minecraft:magma_cream"
+    },
+    {
+      "id": "minecraft:diamond"
+    },
+    {
+      "id": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "riftarmory:dragon_heart"
+  }
+}

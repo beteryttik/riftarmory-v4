@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "id": "minecraft:sand"
+  },
+  "experience": 0.5,
+  "cookingtime": 200,
+  "result": {
+    "id": "riftarmory:ghost_glass"
+  }
+}
